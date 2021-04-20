@@ -1,0 +1,59 @@
+{
+    "person":
+    [{
+        "id": 1,
+        "name": "Cường số 1",
+        "email": "cuongso1@gmail.com",
+        "gender": "Nam",
+        "age": 21,
+        "phone": "0911111111"
+    },
+    {
+        "id": 2,
+        "name": "Cường số 2",
+        "email": "cuongso2@gmail.com",
+        "gender": "Nam",
+        "age": 21,
+        "phone": "0922222222"
+    },
+    {
+        "id": 3,
+        "name": "Cường số 3",
+        "email": "cuongso3@gmail.com",
+        "gender": "Nam",
+        "age": 21,
+        "phone": "0933333333"
+    },
+    {
+        "id": 4,
+        "name": "Cô gái nào đó",
+        "email": "mysteriousgirl@gmail.com",
+        "gender": "Nữ",
+        "age": 20,
+        "phone": "0371111111"
+    },
+    {
+        "id": 5,
+        "name": "Nữ phụ xuất hiện được 1s",
+        "email": "anothergirl@gmail.com",
+        "gender": "Nữ",
+        "age": 23,
+        "phone": "03712121212"
+    },
+    {
+        "id": 6,
+        "name": "Bê đê chúa",
+        "email": "thegreatestgay@gmail.com",
+        "gender": "Khác",
+        "age": 19,
+        "phone": "09670000000"
+    },
+    {
+        "id": 7,
+        "name": "Bóng gồng",
+        "email": "halfmenhalfwomen@gmail.com",
+        "gender": "Khác",
+        "age": 22,
+        "phone": "09672345678"
+    }]
+}
