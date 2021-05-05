@@ -1,59 +1,45 @@
 {
-    "person":
+    "news":
     [{
         "id": 1,
-        "name": "Cường số 1",
-        "email": "cuongso1@gmail.com",
-        "gender": "Nam",
-        "age": 21,
-        "phone": "0911111111"
+        "image": "https://koenig-media.raywenderlich.com/uploads/2018/12/UICollectionView-2-feature.png",
+        "hashtag": "#guide",
+        "title": "Programmatic Custom CollectionView Cell Subclass",
+        "content": "Using CollectionView & CollectionViewCell to create a basic custom cell, this article will show you how to subclass UICollectionView, register it to a UICollectionView, and dequeue it for re-use in the ‘cell for item’ at data source protocol method."
     },
     {
         "id": 2,
-        "name": "Cường số 2",
-        "email": "cuongso2@gmail.com",
-        "gender": "Nam",
-        "age": 21,
-        "phone": "0922222222"
+        "image": "https://www.fanbyte.com/wp-content/uploads/2020/02/MHW-Raging-Brachydios-Weakness.jpg",
+        "hashtag": "#guide",
+        "title": "How to beat Raging Brachydios in MHW Iceborne",
+        "content": "It’s weak points are on the head, arms and tail. However, don’t attack them when they turn red because if you do they’ll explode and deal damage. If you don’t want to wait for the parts to cool off, then you can either have a fellow hunter with a ranged weapon or glaive set them off with attacks or you can attack them with water element weapons which don’t trigger the blast, according to users on the Monster Hunter Subreddit."
     },
     {
         "id": 3,
-        "name": "Cường số 3",
-        "email": "cuongso3@gmail.com",
-        "gender": "Nam",
-        "age": 21,
-        "phone": "0933333333"
+        "image": "https://www.hanwhalife.com.vn/public/uploads/UL%202020/UL-KV-1600x650.jpg",
+        "hashtag": "#life",
+        "title": "10 Ways to make your life better, staring today",
+        "content": "Be grateful for what you have. When you stop to remember what you have instead of worrying about what you may not be getting, it changes your perspective for the better. Start your day the night before. The most successful people I know end their workday by making a list of what they have to do the following day or two ahead. This allows the subconscious to work on things while you sleep. Be ready to grow up. Adults have the ability to learn to delay gratification, but we also have a choice as to how to behave when things don’t go our way. If you remember to take the high road, you’ll end up where you want to be. Drop the attitude. If you think the world owes you a living, you might want to reevaluate your position. It is quite possible that, by feeling entitled, you are pushing away things and people you might like. Don’t ignore your emotions, but remember that feelings aren’t facts. Emotions need to be honored—they don’t have to be justified—but just because you have a feeling doesn’t mean that you are right. Watch out for negative thinking. Sometimes we get into negative feedback loops and don’t even know it. If thoughts of being helpless and hopeless continue to enter your mind, you might just need to take a nap or perhaps talk with someone who can help. Set up and stick to a routine. We are creatures of habit; and good habits, such as getting regular exercise, make us feel better. Maintaining good habits also helps us feel that we have some control over our lives. Just do it. Drop your resentments. We all have them. Whether they are toward our parents, partners, or peers, resentments take up too much psychic space to allow us to function properly. By choosing to drop them, you will make your life much lighter. But the hardest part is making the decision to let your resentments go. Know who you really are, and learn to honor yourself. We all fake it from time to time and once in a while, this can be a good thing, but never compromise your personal values and always strive to be your best self. Enjoy a part of every day. Look for those little bright moments that happen all the time but that we often fail to recognize. Make a point of seeing some good in every day, and you will change your life."
     },
     {
         "id": 4,
-        "name": "Cô gái nào đó",
-        "email": "mysteriousgirl@gmail.com",
-        "gender": "Nữ",
-        "age": 20,
-        "phone": "0371111111"
+        "image": "https://cdn-img.thethao247.vn/upload/namnv/2019/01/04/pep-va-mc-da-ban-linh-nhu-the-nao-truoc-liverpool1546595593.jpg",
+        "hashtag": "#sport",
+        "title": "MC vừa đánh bại PSG, Pep liền quay ra và nói Pochettino là thằng đbrs!!",
+        "content": "Với việc để thua 1-2 ở bán kết Champions League lượt đi trên sân nhà, PSG phải thắng và ghi ít nhất 2 bàn khi tái ngộ Man City vào đêm qua. Ngay phút thứ 7, một tia hy vọng đã lóe lên với đại diện nước Pháp khi trọng tài chính Bjorn Kuipers thổi phạt đền."
     },
     {
         "id": 5,
-        "name": "Nữ phụ xuất hiện được 1s",
-        "email": "anothergirl@gmail.com",
-        "gender": "Nữ",
-        "age": 23,
-        "phone": "03712121212"
+        "image": "https://vcdn-dulich.vnecdn.net/2018/11/14/Tran-Dang-Dang-Khoa-VNEXPRESS-1812-1542203223.jpga",
+        "hashtag": "#life",
+        "title": "Chàng trai Việt đi xe máy vòng quanh thế giới: Học được muôn ngàn bài học ý nghĩa",
+        "content": "TTO - Chàng trai du lịch nổi tiếng Trần Đặng Đăng Khoa vừa trở về nước sau 1.111 ngày hành trình kỳ lạ và đầy cảm hứng: chu du khắp thế giới trên chiếc xe máy biển số Việt Nam."
     },
     {
         "id": 6,
-        "name": "Bê đê chúa",
-        "email": "thegreatestgay@gmail.com",
-        "gender": "Khác",
-        "age": 19,
-        "phone": "09670000000"
-    },
-    {
-        "id": 7,
-        "name": "Bóng gồng",
-        "email": "halfmenhalfwomen@gmail.com",
-        "gender": "Khác",
-        "age": 22,
-        "phone": "09672345678"
+        "image": "https://bloganchoi.com/wp-content/uploads/2020/08/poster-phim-friends.jpg",
+        "hashtag": "#movie",
+        "title": "F.R.I.E.N.D.S: Cuộc sống vui vẻ hơn khi có những người bạn!",
+        "content": "Những người bạn (tựa gốc tiếng Anh: Friends) là một loạt phim truyền hình hài kịch tình huống Mỹ do David Crane và Marta Kauffman sáng lập, công chiếu lần đầu tiên trên kênh National Broadcasting Company (NBC) vào ngày 22 tháng 9 năm 1994. Loạt phim chủ yếu xoay quanh đời sống xã hội và tình cảm của một nhóm bạn gồm 6 người tầm lứa tuổi 20 sinh sống và làm việc tại Manhattan, thành phố New York."
     }]
 }
